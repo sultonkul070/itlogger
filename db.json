@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3,
+      "message": "Changed memory on workstation 050",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sara Wilson"
+    },
+    {
+      "id": 13,
+      "message": "Log 2 changed",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2022-02-26T07:38:31.347Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
